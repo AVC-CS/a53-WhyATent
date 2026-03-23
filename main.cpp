@@ -20,7 +20,7 @@ int main()
         //    flag=0;
         //}
     //}
-    if (begin % 2 == 1 or begin%2 == -1){
+    if (begin % 2 == 1 || begin%2==-1){
         begin++;
     }
     i = begin;
